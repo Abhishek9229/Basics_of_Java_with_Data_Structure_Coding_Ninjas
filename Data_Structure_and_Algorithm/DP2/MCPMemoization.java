@@ -1,4 +1,4 @@
-package Data_Structure_and_Algorithm;
+package Data_Structure_and_Algorithm.DP2;
 
 import java.util.Scanner;
 
