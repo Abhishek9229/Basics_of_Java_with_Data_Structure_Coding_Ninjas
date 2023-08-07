@@ -14,6 +14,7 @@ public class MCP {
             }
         }
         System.out.println(MinPath(graph, 0, 0));
+        s.close();
     }
 
     private static int MinPath(int[][] graph, int i, int j) {

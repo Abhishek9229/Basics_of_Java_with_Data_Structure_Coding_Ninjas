@@ -8,6 +8,7 @@ public class ArrangeNumbersInArray {
             int n = s.nextInt();
             int arr[]= new int[n];
             print(Arrange(arr, n));
+            s.close();
         }
     }
 

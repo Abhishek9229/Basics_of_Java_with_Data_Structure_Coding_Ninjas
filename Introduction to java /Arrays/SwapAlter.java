@@ -12,6 +12,7 @@ public class SwapAlter {
             }
             System.out.println();
             print(swap(arr));
+            s.close();
 
         }
     }

@@ -22,6 +22,7 @@ public class MCPMemoization {
         }
 
         System.out.println(MinCost(graph,0,0, memo));
+        s.close();
     }
 
     private static int MinCost(int[][] graph, int i, int j, int[][] memo) {
