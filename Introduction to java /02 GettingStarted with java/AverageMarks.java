@@ -17,7 +17,7 @@ Marks for each student lie in the range 0 to 100 (both inclusive)
 
 import java.util.Scanner;
 
-public class Solution {
+public class AverageMarks {
     public static void main(String[] args) {
         int m1, m2, m3, avg;
         Scanner s = new Scanner(System.in);
